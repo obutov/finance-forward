@@ -1,0 +1,260 @@
+{
+  "id": "building-future",
+  "title": "Building Your Future",
+  "description": "Invest and plan for long-term success",
+  "color": "orange",
+  "icon": "trending-up",
+  "estimatedTime": "~1.5 hours",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Investing Basics",
+      "content": {
+        "introduction": "Investing is a key strategy for building long-term wealth. This lesson introduces fundamental investing concepts, types of investments, and how to get started.",
+        "sections": [
+          {
+            "title": "Why Invest?",
+            "content": [
+              {
+                "subtitle": "Outpace Inflation",
+                "text": "Investing helps your money grow faster than the rate of inflation, preserving its purchasing power."
+              },
+              {
+                "subtitle": "Achieve Long-Term Goals",
+                "text": "Such as retirement, buying a home, or funding education."
+              },
+              {
+                "subtitle": "Power of Compounding",
+                "text": "Reinvesting earnings to generate further earnings over time."
+              }
+            ]
+          },
+          {
+            "title": "Common Types of Investments",
+            "content": [
+              {
+                "subtitle": "Stocks (Equities)",
+                "text": "Ownership shares in a company. Potential for high returns, but also higher risk."
+              },
+              {
+                "subtitle": "Bonds (Fixed Income)",
+                "text": "Loans to governments or corporations. Generally lower risk and lower returns than stocks."
+              },
+              {
+                "subtitle": "Mutual Funds and ETFs (Exchange-Traded Funds)",
+                "text": "Pools of money from many investors to buy a diversified portfolio of stocks, bonds, or other assets."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Investing is crucial for long-term wealth building and achieving financial goals.",
+          "Understand the relationship between risk and return for different investment types.",
+          "Diversification (spreading investments across different assets) helps manage risk."
+        ],
+        "nextSteps": [
+          "Define your long-term financial goals and investment timeline.",
+          "Research different types of investments and their risk profiles.",
+          "Consider opening a brokerage account or exploring micro-investing apps."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Compound Interest Power",
+      "content": {
+        "introduction": "Often called the 'eighth wonder of the world,' compound interest is a powerful force for wealth creation. This lesson explains how it works and why starting early matters.",
+        "sections": [
+          {
+            "title": "What is Compound Interest?",
+            "content": [
+              {
+                "subtitle": "Interest on Interest",
+                "text": "Earning interest not only on your initial investment (principal) but also on the accumulated interest from previous periods."
+              },
+              {
+                "subtitle": "The Snowball Effect",
+                "text": "Your money grows at an accelerating rate over time."
+              }
+            ]
+          },
+          {
+            "title": "Why Starting Early is Key",
+            "content": [
+              {
+                "subtitle": "Time is Your Greatest Ally",
+                "text": "The longer your money is invested, the more significant the impact of compounding."
+              },
+              {
+                "subtitle": "Small, Consistent Contributions",
+                "text": "Even modest regular investments can grow substantially over decades due to compounding."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Compound interest can dramatically increase your wealth over time.",
+          "The earlier you start investing, the more powerful compounding becomes.",
+          "Consistent contributions, even small ones, are important for maximizing compound growth."
+        ],
+        "nextSteps": [
+          "Use an online compound interest calculator to see how your savings could grow.",
+          "Set a goal to start investing a small, regular amount as soon as possible.",
+          "Explore investment accounts that allow for automatic reinvestment of dividends and interest."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Retirement Planning 101",
+      "content": {
+        "introduction": "Retirement may seem far off, but planning early is crucial for a comfortable future. This lesson covers the basics of retirement accounts and strategies.",
+        "sections": [
+          {
+            "title": "Why Plan for Retirement?",
+            "content": [
+              {
+                "subtitle": "Longevity and Inflation",
+                "text": "You'll likely live longer in retirement and need funds to cover rising costs."
+              },
+              {
+                "subtitle": "Financial Independence",
+                "text": "Ensuring you have enough money to live without working."
+              }
+            ]
+          },
+          {
+            "title": "Common Retirement Accounts",
+            "content": [
+              {
+                "subtitle": "401(k) or 403(b)",
+                "text": "Employer-sponsored plans, often with employer matching contributions (free money!). Tax-deferred growth."
+              },
+              {
+                "subtitle": "Traditional IRA (Individual Retirement Account)",
+                "text": "Contributions may be tax-deductible. Taxes paid upon withdrawal in retirement."
+              },
+              {
+                "subtitle": "Roth IRA",
+                "text": "Contributions made with after-tax dollars. Qualified withdrawals in retirement are tax-free."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Start saving for retirement as early as possible, even with small amounts.",
+          "Take full advantage of employer matching contributions if offered.",
+          "Understand the tax advantages of different retirement accounts."
+        ],
+        "nextSteps": [
+          "If you have a job, check if your employer offers a retirement plan and enroll.",
+          "Research Traditional and Roth IRAs to see which is a better fit for you.",
+          "Estimate how much you might need for retirement using an online calculator."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Insurance Fundamentals",
+      "content": {
+        "introduction": "Insurance protects you from financial losses due to unexpected events. This lesson covers essential types of insurance and why they are important.",
+        "sections": [
+          {
+            "title": "Why is Insurance Important?",
+            "content": [
+              {
+                "subtitle": "Risk Management",
+                "text": "Transfers the financial risk of a loss to an insurance company."
+              },
+              {
+                "subtitle": "Protecting Assets",
+                "text": "Safeguards your savings, home, car, and ability to earn income."
+              }
+            ]
+          },
+          {
+            "title": "Key Types of Insurance",
+            "content": [
+              {
+                "subtitle": "Health Insurance",
+                "text": "Covers medical expenses. Essential for everyone."
+              },
+              {
+                "subtitle": "Auto Insurance",
+                "text": "Required in most states if you own a car. Covers accidents and damage."
+              },
+              {
+                "subtitle": "Renter's or Homeowner's Insurance",
+                "text": "Protects your belongings and provides liability coverage."
+              },
+              {
+                "subtitle": "Disability Insurance",
+                "text": "Replaces a portion of your income if you're unable to work due to illness or injury."
+              },
+              {
+                "subtitle": "Life Insurance (if you have dependents)",
+                "text": "Provides financial support to your loved ones if you pass away."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Insurance is a critical part of a sound financial plan.",
+          "Assess your insurance needs based on your life circumstances.",
+          "Shop around and compare policies to get the best coverage at a reasonable price."
+        ],
+        "nextSteps": [
+          "Review your current insurance coverage (health, auto, renter's).",
+          "Identify any gaps in your insurance protection.",
+          "Get quotes for any additional insurance you may need."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Building Long-term Wealth",
+      "content": {
+        "introduction": "Building long-term wealth is a journey, not a sprint. This lesson summarizes key strategies for creating sustainable financial security and growth over time.",
+        "sections": [
+          {
+            "title": "Core Principles of Wealth Building",
+            "content": [
+              {
+                "subtitle": "Live Below Your Means",
+                "text": "Spend less than you earn to free up money for saving and investing."
+              },
+              {
+                "subtitle": "Save and Invest Consistently",
+                "text": "Make it a regular habit, even if the amounts are small initially."
+              },
+              {
+                "subtitle": "Increase Your Income",
+                "text": "Seek opportunities for career growth, skill development, or side hustles."
+              },
+              {
+                "subtitle": "Protect Your Assets",
+                "text": "Through insurance and emergency funds."
+              },
+              {
+                "subtitle": "Continuous Learning",
+                "text": "Stay educated about personal finance and investment strategies."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Wealth building requires increasing income, controlling expenses, and smart investing.",
+          "Start early and be consistent with saving and investing.",
+          "Diversify investments and use tax-advantaged accounts.",
+          "Protect your wealth with emergency funds and appropriate insurance."
+        ],
+        "nextSteps": [
+          "Calculate your current net worth and set wealth building goals.",
+          "Increase your savings rate and automate investments.",
+          "Review and optimize your investment allocation."
+        ]
+      }
+    }
+  ]
+}
+

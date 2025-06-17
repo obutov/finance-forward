@@ -1,0 +1,287 @@
+{
+  "id": "banking-credit",
+  "title": "Banking & Credit",
+  "description": "Navigate banking and build good credit",
+  "color": "green",
+  "icon": "credit-card",
+  "estimatedTime": "~1.5 hours",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Banking Services Overview",
+      "content": {
+        "introduction": "Understanding banking services is crucial for managing your money effectively. This lesson covers the types of accounts, services, and how to choose the right bank for your needs.",
+        "sections": [
+          {
+            "title": "Types of Bank Accounts",
+            "content": [
+              {
+                "subtitle": "Checking Accounts",
+                "text": "For daily transactions, paying bills, and accessing cash.",
+                "list": [
+                  "Features: Debit card, checks, online bill pay.",
+                  "Consider: Monthly fees, minimum balance, ATM access."
+                ]
+              },
+              {
+                "subtitle": "Savings Accounts",
+                "text": "For setting aside money for future goals and emergencies.",
+                "list": [
+                  "Features: Earns interest, limited withdrawals.",
+                  "Consider: Interest rates (APY), withdrawal limits, fees."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Choosing the Right Bank",
+            "content": [
+              {
+                "subtitle": "Traditional Banks vs. Credit Unions vs. Online Banks",
+                "text": "Compare options based on your priorities:",
+                "list": [
+                  "Traditional Banks: Wide range of services, many branches/ATMs.",
+                  "Credit Unions: Non-profit, member-owned, often better rates and lower fees.",
+                  "Online Banks: Higher interest rates, lower fees, but no physical branches."
+                ]
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Choose bank accounts that align with your financial habits and goals.",
+          "Compare fees, interest rates, and services before opening an account.",
+          "Online banking and mobile apps offer convenience for managing your money."
+        ],
+        "nextSteps": [
+          "Review your current bank accounts and their features.",
+          "Research different banking options if you're considering a switch.",
+          "Set up online access and mobile banking for your accounts."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Understanding Credit Scores",
+      "content": {
+        "introduction": "Your credit score is a vital number that impacts your ability to borrow money, rent an apartment, and even get a job. This lesson explains what credit scores are, how they're calculated, and why they matter.",
+        "sections": [
+          {
+            "title": "What is a Credit Score?",
+            "content": [
+              {
+                "subtitle": "Definition and Importance",
+                "text": "A three-digit number (typically 300-850) that lenders use to assess your creditworthiness. Higher scores mean lower risk and better loan terms."
+              },
+              {
+                "subtitle": "Factors Affecting Your Score",
+                "text": "The main components of your FICO score:",
+                "list": [
+                  "Payment History (35%): Paying bills on time is most important.",
+                  "Amounts Owed (30%): How much debt you carry relative to your credit limits (credit utilization).",
+                  "Length of Credit History (15%): How long you've had credit accounts.",
+                  "New Credit (10%): Recently opened accounts and credit inquiries.",
+                  "Credit Mix (10%): Variety of credit types (cards, loans, mortgage)."
+                ]
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "A good credit score is essential for financial health.",
+          "Paying bills on time and keeping credit utilization low are key to a good score.",
+          "Regularly check your credit report for errors."
+        ],
+        "nextSteps": [
+          "Check your credit score for free from reputable sources.",
+          "Review your credit report for any inaccuracies.",
+          "Identify one action you can take to improve or maintain your credit score."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Credit Cards: Pros and Cons",
+      "content": {
+        "introduction": "Credit cards can be powerful financial tools or dangerous debt traps. This lesson explores the advantages and disadvantages of using credit cards.",
+        "sections": [
+          {
+            "title": "Advantages of Credit Cards",
+            "content": [
+              {
+                "subtitle": "Building Credit History",
+                "text": "Responsible use helps build a positive credit score."
+              },
+              {
+                "subtitle": "Convenience and Security",
+                "text": "Safer than cash for online purchases, fraud protection."
+              },
+              {
+                "subtitle": "Rewards and Perks",
+                "text": "Cash back, travel points, discounts."
+              }
+            ]
+          },
+          {
+            "title": "Disadvantages of Credit Cards",
+            "content": [
+              {
+                "subtitle": "High Interest Rates",
+                "text": "Carrying a balance can lead to significant debt due to interest."
+              },
+              {
+                "subtitle": "Fees",
+                "text": "Annual fees, late payment fees, over-limit fees."
+              },
+              {
+                "subtitle": "Temptation to Overspend",
+                "text": "Easy to spend more than you can afford."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Credit cards offer benefits like building credit and rewards, but come with risks.",
+          "Always pay your balance in full each month to avoid interest charges.",
+          "Choose credit cards that match your spending habits and financial goals."
+        ],
+        "nextSteps": [
+          "If you have a credit card, review its terms, interest rate, and fees.",
+          "Consider a secured credit card if you're new to credit.",
+          "Set up automatic payments to avoid missing due dates."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "Managing Debt Responsibly",
+      "content": {
+        "introduction": "Debt is a part of modern financial life, but it needs to be managed carefully. This lesson covers strategies for responsible debt management and avoiding debt traps.",
+        "sections": [
+          {
+            "title": "Good Debt vs. Bad Debt",
+            "content": [
+              {
+                "subtitle": "Good Debt",
+                "text": "Investments that can increase your net worth or future income (e.g., student loans for education, mortgages)."
+              },
+              {
+                "subtitle": "Bad Debt",
+                "text": "Debt for depreciating assets or consumption (e.g., high-interest credit card debt for non-essentials)."
+              }
+            ]
+          },
+          {
+            "title": "Strategies for Paying Off Debt",
+            "content": [
+              {
+                "subtitle": "Debt Snowball Method",
+                "text": "Pay off smallest debts first for psychological wins, then roll payments to larger debts."
+              },
+              {
+                "subtitle": "Debt Avalanche Method",
+                "text": "Pay off debts with the highest interest rates first to save money on interest."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Not all debt is bad, but all debt requires careful management.",
+          "Prioritize paying off high-interest debt quickly.",
+          "Create a budget that includes debt repayment."
+        ],
+        "nextSteps": [
+          "List all your debts, including interest rates and minimum payments.",
+          "Choose a debt repayment strategy (snowball or avalanche).",
+          "Explore options like balance transfers or consolidation if you have high-interest debt."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Building Credit as a Student",
+      "content": {
+        "introduction": "Building a good credit history as a student sets you up for financial success after graduation. This lesson provides practical tips for establishing and building credit responsibly.",
+        "sections": [
+          {
+            "title": "Ways to Build Credit",
+            "content": [
+              {
+                "subtitle": "Secured Credit Card",
+                "text": "Requires a security deposit that usually becomes your credit limit. Good for beginners."
+              },
+              {
+                "subtitle": "Student Credit Card",
+                "text": "Designed for students, often with lower credit limits and easier approval."
+              },
+              {
+                "subtitle": "Authorized User Status",
+                "text": "Being added to a parent's or guardian's credit card account (if they have good credit)."
+              },
+              {
+                "subtitle": "Credit Builder Loans",
+                "text": "Small loans where payments are reported to credit bureaus."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Start building credit early and responsibly as a student.",
+          "Use credit sparingly and always pay on time.",
+          "Monitor your credit report regularly."
+        ],
+        "nextSteps": [
+          "Research student or secured credit card options.",
+          "Discuss becoming an authorized user with a trusted family member.",
+          "Make small, regular purchases on your credit card and pay them off in full."
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Credit Reports and Monitoring",
+      "content": {
+        "introduction": "Your credit report is a detailed history of your credit activity. Understanding and monitoring it is key to maintaining good credit. This lesson explains how to read your report and why monitoring is important.",
+        "sections": [
+          {
+            "title": "Understanding Your Credit Report",
+            "content": [
+              {
+                "subtitle": "Key Sections",
+                "text": "Personal information, credit accounts, public records, inquiries."
+              },
+              {
+                "subtitle": "How to Get Your Report",
+                "text": "You're entitled to one free report annually from each of the three major bureaus (Equifax, Experian, TransUnion) via AnnualCreditReport.com."
+              }
+            ]
+          },
+          {
+            "title": "Importance of Monitoring",
+            "content": [
+              {
+                "subtitle": "Detecting Errors",
+                "text": "Mistakes can negatively impact your score. Dispute any inaccuracies."
+              },
+              {
+                "subtitle": "Identifying Identity Theft",
+                "text": "Unauthorized accounts or activity can be signs of fraud."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Regularly review your credit report from all three major bureaus.",
+          "Dispute any errors you find immediately.",
+          "Monitoring helps protect against identity theft and maintain a healthy credit score."
+        ],
+        "nextSteps": [
+          "Request your free annual credit reports.",
+          "Carefully review each report for accuracy.",
+          "Consider using a credit monitoring service (some are free)."
+        ]
+      }
+    }
+  ]
+}
+

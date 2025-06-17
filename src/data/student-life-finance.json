@@ -1,0 +1,340 @@
+{
+  "id": "student-life-finance",
+  "title": "Student Life Finance",
+  "description": "Navigate college costs and student life",
+  "color": "purple",
+  "icon": "academic-cap",
+  "estimatedTime": "~2 hours",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Living on Your Own Costs",
+      "content": {
+        "introduction": "Moving out and living independently comes with new financial responsibilities. This lesson helps you understand and budget for the costs of living on your own.",
+        "sections": [
+          {
+            "title": "Common Expenses",
+            "content": [
+              {
+                "subtitle": "Housing",
+                "text": "Rent/dorm fees, utilities (electricity, water, internet), renter's insurance."
+              },
+              {
+                "subtitle": "Food",
+                "text": "Groceries, dining out, meal plans."
+              },
+              {
+                "subtitle": "Transportation",
+                "text": "Car payments, insurance, gas, public transit, ride-sharing."
+              },
+              {
+                "subtitle": "Personal Care & Other",
+                "text": "Toiletries, clothing, laundry, entertainment, phone bill."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Create a detailed budget to track all your living expenses.",
+          "Look for ways to save on major expenses like housing and food.",
+          "An emergency fund is crucial for unexpected costs."
+        ],
+        "nextSteps": [
+          "List all your anticipated monthly expenses if you were living on your own.",
+          "Research average costs for rent, utilities, and groceries in your area.",
+          "Start building an emergency fund, even if it's a small amount each month."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Student Loan Basics",
+      "content": {
+        "introduction": "Student loans can be a necessary tool for funding education, but it's vital to understand how they work. This lesson covers types of student loans, repayment options, and responsible borrowing.",
+        "sections": [
+          {
+            "title": "Types of Student Loans",
+            "content": [
+              {
+                "subtitle": "Federal Student Loans",
+                "text": "Offered by the government (e.g., Direct Subsidized/Unsubsidized, PLUS loans). Often have more borrower protections and flexible repayment options."
+              },
+              {
+                "subtitle": "Private Student Loans",
+                "text": "Offered by banks, credit unions, and other financial institutions. Terms and rates vary widely."
+              }
+            ]
+          },
+          {
+            "title": "Understanding Loan Terms",
+            "content": [
+              {
+                "subtitle": "Interest Rates",
+                "text": "Fixed vs. Variable. Understand how interest accrues."
+              },
+              {
+                "subtitle": "Repayment Plans",
+                "text": "Standard, income-driven, graduated. Explore options before repayment begins."
+              },
+              {
+                "subtitle": "Grace Period",
+                "text": "The period after graduation or leaving school before you must start making payments (usually 6 months for federal loans)."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Borrow only what you absolutely need for education.",
+          "Federal loans generally offer more favorable terms and protections than private loans.",
+          "Understand your repayment options and responsibilities before taking out loans."
+        ],
+        "nextSteps": [
+          "If you have student loans, identify whether they are federal or private.",
+          "Research the interest rates and repayment terms for your loans.",
+          "Estimate your future monthly payments."
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "title": "Part-time Work & Taxes",
+      "content": {
+        "introduction": "Many students work part-time to cover expenses. This lesson discusses managing income from part-time jobs and understanding basic tax obligations.",
+        "sections": [
+          {
+            "title": "Managing Part-Time Income",
+            "content": [
+              {
+                "subtitle": "Budgeting with Variable Income",
+                "text": "Create a budget based on your average or lowest expected income."
+              },
+              {
+                "subtitle": "Balancing Work and Studies",
+                "text": "Prioritize academics while managing work hours effectively."
+              }
+            ]
+          },
+          {
+            "title": "Understanding Taxes",
+            "content": [
+              {
+                "subtitle": "W-4 Form",
+                "text": "Determines how much federal income tax is withheld from your paycheck."
+              },
+              {
+                "subtitle": "Filing Taxes",
+                "text": "You may need to file an annual tax return if your income exceeds certain thresholds. Explore free tax filing options for students."
+              },
+              {
+                "subtitle": "Tax Deductions and Credits",
+                "text": "Look into education-related tax benefits like the American Opportunity Tax Credit or Lifetime Learning Credit."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "A part-time job can help manage student expenses but requires careful budgeting.",
+          "Understand your tax obligations and explore available student tax benefits.",
+          "Keep good records of your income and work-related expenses."
+        ],
+        "nextSteps": [
+          "If you have a part-time job, review your W-4 withholdings.",
+          "Research student tax credits and deductions you might be eligible for.",
+          "Plan how you will manage your time effectively between work and studies."
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "title": "College Budgeting",
+      "content": {
+        "introduction": "Creating and sticking to a budget is essential for managing your finances in college. This lesson provides practical strategies for effective college budgeting.",
+        "sections": [
+          {
+            "title": "Creating Your College Budget",
+            "content": [
+              {
+                "subtitle": "Track Your Spending",
+                "text": "Use an app, spreadsheet, or notebook to see where your money is going."
+              },
+              {
+                "subtitle": "Categorize Expenses",
+                "text": "Tuition/fees, housing, food, transportation, books/supplies, personal, entertainment."
+              },
+              {
+                "subtitle": "Set Spending Limits",
+                "text": "Allocate funds to each category based on your income and priorities. The 50/30/20 rule can be a good starting point (50% Needs, 30% Wants, 20% Savings/Debt)."
+              }
+            ]
+          },
+          {
+            "title": "Tips for Sticking to Your Budget",
+            "content": [
+              {
+                "subtitle": "Use Cash for Certain Categories",
+                "text": "Helps visualize spending."
+              },
+              {
+                "subtitle": "Find Free or Low-Cost Activities",
+                "text": "Take advantage of student discounts and campus events."
+              },
+              {
+                "subtitle": "Review and Adjust Regularly",
+                "text": "Your budget isn't set in stone; adapt it as your circumstances change."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "A college budget helps you control spending and achieve financial goals.",
+          "Regularly track your expenses and adjust your budget as needed.",
+          "Look for ways to save money on common student expenses."
+        ],
+        "nextSteps": [
+          "Create a detailed monthly budget for your college expenses.",
+          "Track your spending for one week and compare it to your budget.",
+          "Identify three areas where you can reduce spending."
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "title": "Financial Aid and Scholarships",
+      "content": {
+        "introduction": "Financial aid and scholarships can significantly reduce the cost of college. This lesson explains how to find and apply for these valuable resources.",
+        "sections": [
+          {
+            "title": "Understanding Financial Aid",
+            "content": [
+              {
+                "subtitle": "FAFSA (Free Application for Federal Student Aid)",
+                "text": "The primary form for federal, state, and some institutional aid. Submit it as early as possible each year."
+              },
+              {
+                "subtitle": "Types of Aid",
+                "text": "Grants (don't need to be repaid), scholarships (merit-based or need-based), work-study programs, federal student loans."
+              }
+            ]
+          },
+          {
+            "title": "Finding and Applying for Scholarships",
+            "content": [
+              {
+                "subtitle": "Where to Look",
+                "text": "College financial aid offices, online scholarship search engines (e.g., Fastweb, Scholarships.com), community organizations, employers."
+              },
+              {
+                "subtitle": "Application Tips",
+                "text": "Start early, pay attention to deadlines, tailor your applications, write strong essays, get good letters of recommendation."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Maximize financial aid by submitting the FAFSA accurately and on time.",
+          "Actively search and apply for scholarships to reduce reliance on loans.",
+          "Be wary of scholarship scams that require payment."
+        ],
+        "nextSteps": [
+          "Complete and submit your FAFSA if you haven't already.",
+          "Research at least three scholarship opportunities you might be eligible for.",
+          "Create a calendar of financial aid and scholarship deadlines."
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "title": "Preparing for Post-Graduation Finances",
+      "content": {
+        "introduction": "Graduation brings new financial challenges and opportunities. This lesson helps you prepare for managing your finances after college.",
+        "sections": [
+          {
+            "title": "Key Financial Steps After Graduation",
+            "content": [
+              {
+                "subtitle": "Create a Post-Graduation Budget",
+                "text": "Factor in new expenses like loan repayments, professional wardrobe, and potentially higher living costs."
+              },
+              {
+                "subtitle": "Manage Student Loan Repayment",
+                "text": "Understand your grace period, choose a repayment plan, and make timely payments."
+              },
+              {
+                "subtitle": "Build an Emergency Fund",
+                "text": "Aim for 3-6 months of living expenses."
+              },
+              {
+                "subtitle": "Start Saving for Retirement",
+                "text": "Even small contributions early on can make a big difference due to compound interest. Take advantage of employer matching if available."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Proactive financial planning is crucial for a smooth transition after graduation.",
+          "Prioritize student loan repayment and building an emergency fund.",
+          "Start saving for long-term goals like retirement as early as possible."
+        ],
+        "nextSteps": [
+          "Estimate your post-graduation monthly income and expenses.",
+          "Research your student loan repayment options.",
+          "Set a goal for your emergency fund and start saving towards it."
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "title": "Money Management Apps and Tools",
+      "content": {
+        "introduction": "Technology offers many tools to help manage your finances. This lesson introduces popular money management apps and how they can assist you.",
+        "sections": [
+          {
+            "title": "Types of Financial Apps",
+            "content": [
+              {
+                "subtitle": "Budgeting Apps (e.g., Mint, YNAB, Personal Capital)",
+                "text": "Track spending, create budgets, monitor accounts, set goals."
+              },
+              {
+                "subtitle": "Investing Apps (e.g., Robinhood, Acorns, Stash)",
+                "text": "Allow easy access to investing in stocks, ETFs, and other assets."
+              },
+              {
+                "subtitle": "Savings Apps (e.g., Digit, Qapital)",
+                "text": "Automate savings through various methods like round-ups or rule-based transfers."
+              }
+            ]
+          },
+          {
+            "title": "Choosing and Using Apps Wisely",
+            "content": [
+              {
+                "subtitle": "Security",
+                "text": "Ensure apps use strong encryption and security measures."
+              },
+              {
+                "subtitle": "Fees",
+                "text": "Some apps are free, while others have subscription fees. Understand the cost structure."
+              },
+              {
+                "subtitle": "Features",
+                "text": "Choose apps that offer the features you need and align with your financial style."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Money management apps can simplify budgeting, saving, and investing.",
+          "Choose apps that are secure, affordable, and meet your specific needs.",
+          "Don't rely solely on apps; they are tools to support your financial habits."
+        ],
+        "nextSteps": [
+          "Research a few money management apps that interest you.",
+          "Consider trying out a free budgeting app to track your spending.",
+          "Read reviews and compare features before committing to a paid app."
+        ]
+      }
+    }
+  ]
+}
+

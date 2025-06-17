@@ -1,0 +1,126 @@
+{
+  "id": "financial-foundations",
+  "title": "Financial Foundations",
+  "description": "Master the basics of money management",
+  "color": "blue",
+  "icon": "book",
+  "estimatedTime": "~1 hour",
+  "lessons": [
+    {
+      "id": 1,
+      "title": "Making Financial Decisions",
+      "content": {
+        "introduction": "Welcome to your first step in mastering financial literacy! This lesson will equip you with the fundamental frameworks for making sound financial decisions. We'll explore how to evaluate choices, avoid common pitfalls, and build a strong foundation for your financial future.",
+        "sections": [
+          {
+            "title": "Understanding the Decision-Making Process",
+            "content": [
+              {
+                "subtitle": "The 5-Step Financial Decision Model",
+                "text": "A structured approach to making financial choices:",
+                "list": [
+                  "Define the Goal: What do you want to achieve? (e.g., save for a car, pay off debt)",
+                  "Gather Information: Research options, costs, and benefits.",
+                  "Analyze Alternatives: Compare pros and cons of each choice.",
+                  "Make the Decision: Select the best option based on your analysis.",
+                  "Review and Adjust: Evaluate the outcome and make changes if needed."
+                ]
+              },
+              {
+                "subtitle": "Short-Term vs. Long-Term Impact",
+                "text": "Consider how decisions affect you now and in the future. A small daily coffee might seem insignificant, but over years, it adds up to a substantial amount that could have been invested."
+              }
+            ]
+          },
+          {
+            "title": "Common Financial Pitfalls to Avoid",
+            "content": [
+              {
+                "subtitle": "Impulse Buying",
+                "text": "Buying without planning, often driven by emotion. Implement a 24-hour rule for non-essential purchases to curb this."
+              },
+              {
+                "subtitle": "Keeping Up with the Joneses",
+                "text": "Spending to match the lifestyle of peers, often leading to debt. Focus on your own financial goals, not others'."
+              },
+              {
+                "subtitle": "Ignoring Opportunity Cost",
+                "text": "What you give up when you choose one option over another. For example, spending on a concert means less money for savings."
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Structured decision-making leads to better financial outcomes.",
+          "Always consider both short-term and long-term consequences.",
+          "Being aware of common pitfalls helps you avoid them.",
+          "Financial literacy is about making informed, intentional choices."
+        ],
+        "nextSteps": [
+          "Identify a financial decision you need to make soon and apply the 5-step model.",
+          "Track your spending for a week to identify any impulse buys.",
+          "Reflect on an opportunity cost you've recently experienced."
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "title": "Understanding Money Psychology",
+      "content": {
+        "introduction": "Money isn't just about numbers; it's deeply intertwined with our emotions and psychology. This lesson explores the psychological aspects of money, helping you understand your own money behaviors and make more rational financial decisions.",
+        "sections": [
+          {
+            "title": "Your Relationship with Money",
+            "content": [
+              {
+                "subtitle": "Scarcity vs. Abundance Mindset",
+                "text": "How you view money affects your decisions:",
+                "list": [
+                  "Scarcity: 'There's never enough money' - leads to hoarding or overspending",
+                  "Abundance: 'Money is a tool' - leads to strategic planning and investing"
+                ]
+              },
+              {
+                "subtitle": "Money Scripts",
+                "text": "Beliefs learned in childhood that influence adult behavior:",
+                "list": [
+                  "'Money doesn't grow on trees'",
+                  "'Rich people are greedy'", 
+                  "'You have to work hard for money'"
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Emotional Triggers",
+            "content": [
+              {
+                "subtitle": "Common Emotional Spending Triggers",
+                "text": "Recognize these patterns in your spending:",
+                "list": [
+                  "Stress: Shopping as stress relief",
+                  "Social pressure: Spending to fit in",
+                  "Boredom: Buying things for entertainment",
+                  "Celebration: Overspending during good times",
+                  "Guilt: Buying expensive gifts to show love"
+                ]
+              }
+            ]
+          }
+        ],
+        "keyTakeaways": [
+          "Your money mindset affects every financial decision.",
+          "Emotional spending is normal but can be managed.",
+          "Understanding your triggers helps you make better choices.",
+          "Money is a tool to achieve your goals, not an end in itself."
+        ],
+        "nextSteps": [
+          "Identify your money mindset and scripts.",
+          "Track your emotional spending triggers for a week.",
+          "Practice mindful spending before purchases."
+        ]
+      }
+    }
+  ]
+}
+
